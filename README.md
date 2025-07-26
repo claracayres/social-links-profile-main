@@ -37,3 +37,5 @@ In this project, I practiced:
 - Customizing global styles with `:root` variables
 - Creating reusable utility classes
 - Structuring a clean and minimal HTML layout
+
+Built by Clara Cayres💜
